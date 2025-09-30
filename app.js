@@ -1,6 +1,5 @@
 // funksiya yazin  istifadeciden soz ve herf alsin. 
 // hemin sozun icerisinde o herf tekrarlanirsa true eks halda false qaytarsin 
-// yeni bir herf 1 defeden  cox isdifade olunubsa true qaytarsin .
 // string methodlarindan istifade edin meselen indexOf, lastIndexOf
 
 let word = prompt("Bir soz daxil edin:");
