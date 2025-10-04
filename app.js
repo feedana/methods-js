@@ -57,10 +57,18 @@
 
 // ----------------Task3----------------------
 // İstifadəçidən tam adı «AD SOYAD» formatında daxil etməyi xahiş edin. 
-// Tam adını konsola fərqli qaydada yəni «SOYAD AD» formatında çıxarın,
-
+    // Tam adını konsola fərqli qaydada yəni «SOYAD AD» formatında çıxarın,
 // let fullName = prompt("Tam adınızı 'AD SOYAD' formatında daxil edin:");
-// let nameParts = 
+// let parts = fullName.trim().split(/\s+/);
+// if (parts.length >= 2) {
+// 	let ad = parts[0];
+// 	let soyad = parts.slice(1).join(" ");
+// 	console.log(`${soyad} ${ad}`);
+// } else {
+// 	console.log("Zəhmət olmasa 'AD SOYAD' formatında daxil edin.");
+// }
+
+
 
 
 // ???????????????????????????????????
